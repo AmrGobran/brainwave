@@ -17,4 +17,4 @@
 - **ScrollParallax**: Library for creating scroll-based animations.
 - **Vite**: Fast build tool for development and production.
 
-![UI Screenshot](./src/assets/screenshots/Brainwave.png)# brainwave
+![UI Screenshot](./src/assets/screenshots/Brainwave.png)
